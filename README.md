@@ -85,18 +85,3 @@ This plugin was created to provide standardized user management
 for the Seneca microservices framework. It is part of the
 [Voxgig](https://www.voxgig.com) open source initiative.
 
-## License
-
-Copyright (c) 2010-2024, Richard Rodger and other contributors.
-Licensed under [MIT][].
-
-[MIT]: ./LICENSE
-[Seneca.js]: https://www.npmjs.com/package/seneca
-[coveralls-badge]: https://coveralls.io/repos/github/senecajs/seneca-user/badge.svg?branch=master
-[coveralls-url]: https://coveralls.io/github/senecajs/seneca-user?branch=master
-[codeclimate-badge]: https://api.codeclimate.com/v1/badges/404faaa89a95635ddfc0/maintainability
-[codeclimate-url]: https://codeclimate.com/github/senecajs/seneca-user/maintainability
-[npm-badge]: https://img.shields.io/npm/v/@seneca/user.svg
-[npm-url]: https://npmjs.com/package/@seneca/user
-[senecajs-org]: https://github.com/senecajs/
-[github-issue]: https://github.com/senecajs/seneca-user/issues
